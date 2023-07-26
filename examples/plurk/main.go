@@ -1,4 +1,4 @@
-package plurgo
+package main
 
 import (
 	"encoding/json"
@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/forgetdark/go-oauth/oauth"
+	"github.com/garyburd/go-oauth/oauth"
 	//"time"
 )
 
